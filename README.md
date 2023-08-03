@@ -1,4 +1,14 @@
-### Hi there 👋
+# What's Up Fellow Programmers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+
+#### Hello, I'm Maya and welcome to my GitHub page
+
+---
+
+### About Me
+* 😄 Pronouns: she/her
+* 🔭 I’m currently working on KlaudOS / work projects
+* ⚡ Fun fact: My username (coldmayo) was actually my nickname throughout school.
+* 💬 Ask me about Python, Javascript, C, C++
 
 <!--
 **coldmayo/coldmayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

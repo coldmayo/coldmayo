@@ -1,26 +1,11 @@
-# What's Up Fellow Programmers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+## What's Up Fellow Programmers <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 #### Hello, I'm Maya and welcome to my GitHub page
 
 ---
 
 ### About Me
-* 😄 Pronouns: she/her
-* 🔭 I’m currently working on KlaudOS / work projects
-* ⚡ Fun fact: My username (coldmayo) was actually my nickname throughout school.
-* 💬 Ask me about Python, Javascript, C, C++
-
-<!--
-**coldmayo/coldmayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👩🏾 Pronouns: she/her/hers
+* 🔭 I’m currently working on KlaudOS / summer internship projects
+* ⚡ Fun fact: My username (coldmayo) was a nickname a friend in middle school gave to me.
+* 🌎 You can view my portfolio <a href="https://coldmayo.github.io/index.html">here</a>

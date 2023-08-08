@@ -6,6 +6,6 @@
 
 ### About Me
 * 👩🏾 Pronouns: she/her/hers
-* 🔭 I’m currently working on KlaudOS / summer internship projects
+* 🔭 I’m currently working on KlaudOS + summer internship projects
 * ⚡ Fun fact: My username (coldmayo) was a nickname a friend in middle school gave to me.
 * 🌎 You can view my portfolio <a href="https://coldmayo.github.io/index.html">here</a>

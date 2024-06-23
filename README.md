@@ -1,16 +1,23 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> What's up, I'm Maya (coldmayo)
 
 ## About Me
-- 🎓 Studying Physics at Michigan State University
+- 🎓 Physics PhD Candidate at Michigan State University
 - 🎮 My current hobbies are playing video games, the drums, and reading
-- 🔨 I'm working on: <a href="https://github.com/coldmayo/40kAI">Warhammer 40k AI</a> and <a href="https://github.com/coldmayo/MMBCReco">MMBCReco</a>
+- 🔨 I'm currently working on:<br>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=coldmayo&title_color=8300ff&icon_color=8300ff&text_color=8300ff&repo=40kAI">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=coldmayo&title_color=8300ff&icon_color=8300ff&text_color=8300ff&repo=MMBCReco">
+</p>
+
 - 👩🏾 Pronouns: she/her/hers
-- <img src="icons/archlinux.png" height="20em" align="center"> I use Arch btw
+- <img src="icons/archlinux.png" height="20em"> I use Arch btw
+- <img src = "icons/kakoune_logo_full.png" height="20em"> My Kakoune <a href="https://github.com/coldmayo/config">dotfiles</a>
 
 ## GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldmayo&show_icons=true&title_color=8300ff&icon_color=8300ff&text_color=8300ff&bg_color=151515&count_private=false&layout=compact&hide=jupyter%20notebook">
-<img src="https://github-readme-stats.vercel.app/api?username=coldmayo&show_icons=true&title_color=8300ff&icon_color=8300ff&text_color=9f9f9f&bg_color=151515&count_private=true)">
+<img src="https://github-readme-stats.vercel.app/api?username=coldmayo&hide=contribs&show_icons=true&title_color=8300ff&icon_color=8300ff&text_color=9f9f9f&bg_color=151515&count_private=true)">
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coldmayo&theme=highcontrast&hide_border=true)">

@@ -1,7 +1,7 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> What's up, I'm Maya (coldmayo)
 
 ## About Me
-- 🎓 Physics PhD Candidate at Michigan State University
+- 🎓 Physics PhD Student at Michigan State University
 - 🎮 My current hobbies are playing video games, the drums, and reading
 - 👩🏾 Pronouns: she/her/hers
 - <img src="icons/archlinux.png" height="20em"> I use Arch btw
@@ -23,6 +23,6 @@
 </p>
 
 ## Follow Me!
-- <img src="icons/proton.png" height="15em" align="center"> Email me at the email on my github profile: <a href="mailto:coldmayo@proton.me">coldmayo@proton.me</a>
-- 🌐 My Portfolio Website can be found <a href="https://coldmayo.github.io/">here</a> where you can learn even more about me and read my blog!
-- <img src="icons/linkedin.png" height="20em"> Connect with me on LinkedIn <a href="https://www.linkedin.com/in/maya-wallach/">here</a>
+- <img src="icons/proton.png" height="15em" align="center"> Email me at <a href="mailto:coldmayo@proton.me">coldmayo@proton.me</a>
+- 🌐 My Portfolio Website can be found <a href="https://coldmayo.github.io/">here</a>
+- <img src="icons/linkedin.png" height="20em"> Check out my <a href="https://www.linkedin.com/in/maya-wallach/">LinkedIn</a>

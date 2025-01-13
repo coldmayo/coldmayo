@@ -9,7 +9,7 @@
 - 🔨 I'm currently working on:<br>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=coldmayo&bg_color=151515&title_color=8300ff&text_color=9f9f9f&repo=40kAI">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=coldmayo&bg_color=151515&title_color=8300ff&text_color=9f9f9f&repo=Klaud-Obfuscator">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=coldmayo&bg_color=151515&title_color=8300ff&text_color=9f9f9f&repo=Obsidian-kak">
 </p>
 
